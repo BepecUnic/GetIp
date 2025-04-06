@@ -8,7 +8,7 @@ This repository contains scripts to retrieve your public IP address using multip
 - **PowerShell** for Windows
 
 
-##Download 
+# Download 
 Linux
    ```bash
    curl -O https://raw.githubusercontent.com/BepecUnic/GetIp/main/GetIp_bash.sh
